@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCREEN_MENU</key>
+	<dict>
+		<key>TITLE</key>
+		<string>Profile</string>
+		<key>CELL_ROW1</key>
+		<string>Map</string>
+		<key>CELL_ROW2</key>
+		<string>My Trips</string>
+		<key>CELL_ROW3</key>
+		<string>Scan Trip QR Code</string>
+		<key>CELL_ROW4</key>
+		<string>Routzi Blog</string>
+		<key>CELL_ROW5</key>
+		<string>Tips &amp; Tricks</string>
+		<key>CELL_ROW6</key>
+		<string>Rate Routzi</string>
+		<key>CELL_ROW7</key>
+		<string>Contact us</string>
+		<key>CELL_ROW8</key>
+		<string>Tell Friends</string>
+	</dict>
+	<key>SCREEN_HOME</key>
+	<dict>
+		<key>NAV_TITLE</key>
+		<string>Routzi</string>
+		<key>SEARCH_TITLE</key>
+		<string>Search Nearby</string>
+		<key>SEARCH_BTN_CANCEL</key>
+		<string>Cancel</string>
+		<key>SEARCH_BTN_RESERVE</key>
+		<string>Done</string>
+		<key>SEARCH_TXT_FROM</key>
+		<string>What:</string>
+		<key>SEARCH_TXT_TO</key>
+		<string>Where:</string>
+		<key>SEARCH_MEM_1</key>
+		<string>1</string>
+		<key>SEARCH_MEM_2_5</key>
+		<string>2-5</string>
+		<key>SEARCH_MEM_6</key>
+		<string>6</string>
+		<key>SEARCH_PAY_CASH</key>
+		<string>Cash</string>
+		<key>SEARCH_PAY_CARD</key>
+		<string>Card</string>
+		<key>SEARCH_PAY_ACCOUNT</key>
+		<string>Account</string>
+		<key>PAY_RECEIPT</key>
+		<string>Receipt</string>
+		<key>PAY_CARD</key>
+		<string>Payment by card</string>
+		<key>PAY_BOTTOM</key>
+		<string>Thank you for choosing us</string>
+		<key>PAY_BUTTON</key>
+		<string>     Pay now</string>
+		<key>PAY_CANCEL</key>
+		<string>Cancel</string>
+	</dict>
+	<key>SCREEN_ELEMENT</key>
+	<dict>
+		<key>NAV_TITLE</key>
+		<string>Elements</string>
+	</dict>
+</dict>
+</plist>
